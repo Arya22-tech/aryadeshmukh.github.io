@@ -17,6 +17,18 @@ title: Arya Deshmukh
 email: aryas.deshmukh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software Developer | Machine Learning Enthusiast | BTech in Computer Engineering (CCOEW)
+
+#Custom navigation
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Skills"
+    url: /skills/
+  - title: "Projects"
+    url: /projects/
+
 #twitter_username: username
 github_username: Arya22-tech
 minimal_mistakes_skin: default
